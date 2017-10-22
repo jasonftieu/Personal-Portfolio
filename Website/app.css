@@ -1,10 +1,76 @@
-body {
-  background-image: url(Me.jpeg);
-  background-size: cover;
-}
-h1 {
-  font-family: Roberto;
-}
 .nav {
-  float: right;
+  background: transparent;
 }
+
+#About, #Portfolio, #Contact, #Dropdown {
+  padding-right: 100px;
+  padding-left: 100px;
+}
+
+.navbar {
+background:rgba(0,0,0,0.5);
+background: transparent;
+
+}
+
+.jumbotron {
+/*  background:rbga(0,0,0,0.5);
+*/
+margin-bottom: 0px;
+    opacity: 0.2;
+    color: #fff;
+    background: #000
+}
+#pic1 {
+height: 100vh;
+width: 100%;
+background-image: url(Me.jpeg);
+background-size: cover;
+display: table;
+background-attachment: fixed;
+}
+#pic2 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(Me1.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+#pic3 {
+  height: 100vh;
+  width: 100%;
+  background-image: url(Me2.jpg);
+  background-size: cover;
+  display: table;
+  background-attachment: fixed;
+}
+
+h1{
+    font-family: arial black;
+    font-size: 50px;
+    color:white;
+    margin: 0px;
+    text-align: center;
+    display: table-cell;
+    vertical-align: middle;
+}
+/*
+.parallax {
+  background-image: url(Me.jpeg);
+  height: 500px;
+  background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+*/
+/*
+body { margin: 0; }
+.image {
+    width: 1300px;
+    height: 1000px;
+    background-image: url(Me1.jpg);
+    background-size: cover;
+}
+*/
