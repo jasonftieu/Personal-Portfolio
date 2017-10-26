@@ -15,5 +15,5 @@ Feel free to checkout my [Codepen](https://codepen.io/jasonftieu/).
 
 <strong> Fundamentals of HTML </strong>
   <ul>
-    <li> [Tribute Page](https://codepen.io/jasonftieu/pen/OxBVjo)
+    <li> https://codepen.io/jasonftieu/pen/OxBVjo </li>
   </ul>
