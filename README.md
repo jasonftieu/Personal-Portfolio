@@ -3,12 +3,17 @@ I am currently a junior majoring in Computer Engineering at the University of Ok
 
 I am a beginner learning front-end development and am eager to learn more skills to add to my tool belt.
 
-Feel free to checkout my [Codepen](https://codepen.io/jasonftieu/pen/OxBVjo).
+Feel free to checkout my [Codepen](https://codepen.io/jasonftieu/).
 
 <strong> Skills I am currently learning </strong>
-<ul>
-  <li> HTML </li>
-  <li> CSS </li>
-  <li> Javascript </li>
-  <li> Bootstrap </li>
-</ul>
+  <ul>
+    <li> HTML </li>
+    <li> CSS </li>
+    <li> Javascript </li>
+    <li> Bootstrap </li>
+  </ul>
+
+<strong> Fundamentals of HTML </strong>
+  <ul>
+    <li> [Tribute Page](https://codepen.io/jasonftieu/pen/OxBVjo)
+  </ul>
