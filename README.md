@@ -11,4 +11,4 @@ Feel free to checkout my [Codepen](https://codepen.io/jasonftieu/), [Github](htt
 - Java
 
 ## Project
-- [Shitty Stuff](https://codepen.io/jasonftieu/pen/OxBVjo)
+- [Cool Stuff](https://codepen.io/jasonftieu/pen/OxBVjo)
